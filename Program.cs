@@ -17,6 +17,8 @@ namespace CSScript
         {
             try
             {
+                throw new Exception();
+
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine(LOGO);
 
