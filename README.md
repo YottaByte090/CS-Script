@@ -4,7 +4,7 @@
 
 ![Example Screenshot](https://github.com/YottaByte090/CS-Script/raw/master/Images/Example.png)
 
-워게임을 하면서 간단한 프로그램을 제작하면서, 프로젝트 생성하기 귀찮아 만든 프로그램입니다.  
+워게임을 하면서 간단한 프로그램을 제작하는데 프로젝트 생성하기 귀찮아 만든 프로그램입니다.  
 한 개의 C# 소스 파일을 입력으로 넣어주면 컴파일 해 줍니다.
 
 # Example
